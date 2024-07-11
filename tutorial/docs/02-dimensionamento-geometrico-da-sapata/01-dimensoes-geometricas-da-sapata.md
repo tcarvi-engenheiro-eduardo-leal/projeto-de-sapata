@@ -10,7 +10,10 @@
 
 ## Caracterização geométrica de sapatas como rígidas ou flexíveis
 - Conforme Normativo NBR 6118:2024 Estruturas de Concreto Armado,
-    - Quando se verifica a expressão a seguir, nas duas direções, a sapata é considerada **rígida**. Se a expressão não for verificada, considera-se que a sapata é do tipo **flexível**.
+    - Quando se verifica a expressão a seguir,
+    - considerando as duas direções dos lados do paralelepídedo da base da sapata 
+    - a consideramos como **rígida**. 
+        - Se a expressão não for verificada, considera-se que a sapata é do tipo **flexível**.
 $$
 h \geq \frac{a - a_p}{3}
 $$
