@@ -1,0 +1,6 @@
+# Comportamento Estrutural de Sapatas Flexíveis
+- Trabalho à flexão nas duas direções
+    - A reler ...
+- Trabalho ao cisalhamento descrito pelo comportamento de punção
+    - A reler ...
+- A distribuição plana de tensões no contato sapata-solo deve ser verificada.
