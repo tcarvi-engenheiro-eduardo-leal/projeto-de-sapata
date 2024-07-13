@@ -1,2 +1,2 @@
 # projeto-de-sapata
-Projeto de Fundação Superficial - Sapata
+Tutoriais sobre o projeto de Sapatas.
